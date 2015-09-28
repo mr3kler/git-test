@@ -1,1 +1,2 @@
 console.writeln("Hello World!");
+console.writeln("Hello Earth");
